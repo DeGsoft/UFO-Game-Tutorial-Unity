@@ -5,4 +5,4 @@ In your first foray into Unity development, create a simple 2D UFO game that tea
 
 https://unity3d.com/es/learn/tutorials/projects/2d-ufo-tutorial
 
-<iframe src="https://degsoft.github.io/UFO-Game-Tutorial-Unity/Build-WebGL/UFO/index.html" width="640px" height="480px" />
+<iframe src="https://degsoft.github.io/UFO-Game-Tutorial-Unity/Build-WebGL/UFO/index.html" width="100%" height="100%" />
